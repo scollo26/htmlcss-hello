@@ -1,0 +1,13 @@
+.text{
+    text-align: center;
+    color: #00FF00;
+    font-size: 200%;
+    font-family: 'Rubik', sans-serif;
+   }
+
+   .carica1{
+    background-color: orange;
+    width: 30%;
+    padding: 12px;
+    border-radius: 8%;
+  }
