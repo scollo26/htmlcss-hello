@@ -5,10 +5,9 @@
      font-family: 'Rubik', sans-serif;
  }
 
- .img.sinistra {
-   background-color: orange;
-   width: 300%;
-   border-radius: 50%;
-   float: center;
-   margin-right: 20%;
-  }
+ 
+  body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
